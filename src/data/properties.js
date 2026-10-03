@@ -90,9 +90,12 @@ export const CONTENT = {
       'Hotel on a quiet close, built for people who would rather not be ' +
       'announced. Three floors, one staircase, and a front desk that knows your name by ' +
       'the second evening.',
+    /* "Breakfast when you come down" read as a buffet — come down and help
+       yourself to what has been laid out. It is ordered and cooked for you, so
+       the line says so. */
     stayPitch:
-      'Most guests stay three nights or longer. The rhythm suits it — breakfast when you ' +
-      'come down, and quiet kept properly after eleven.',
+      'Most guests stay three nights or longer. The rhythm suits it — breakfast ordered ' +
+      'when you come down, and quiet kept properly after eleven.',
     coords: '6.4654° N, 3.2836° E',
     mapUrl:
       'https://www.google.com/maps/search/?api=1&query=Plot+55+1st+Avenue+E+Close+Festac+Lagos',
